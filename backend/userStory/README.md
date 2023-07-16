@@ -56,14 +56,4 @@ This project includes a queue process for sending order and login emails. Here's
 php artisan queue:work
 ```
 ---
-# #Project 2
-
-Manipulate JSON string
-
-to run endpoint api
-```sh
-http://127.0.0.1:8000/api/manipjson
-```
-
-Controller for manipulate json: App\Http\Controllers\ManipJSONController
 **Thankyou.**
