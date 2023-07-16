@@ -25,7 +25,7 @@
  - Add, Edit, Delete, Mark as Done, Searching Todo
  - Public API (time, temperature, location)
 
-![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png "Todo APP Preview")
+<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:300px;"/>
 <img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:300px;"/>
 # # Logic Test
 ### Build with
