@@ -26,7 +26,7 @@
  - Public API (time, temperature, location)
 
 ![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png "Todo APP Preview")
-<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:550;"/>
+<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:550px;"/>
 # # Logic Test
 ### Build with
 - PHP
