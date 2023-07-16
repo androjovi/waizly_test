@@ -28,9 +28,7 @@
 
  ### Screenshot preview 
 
-<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:250px;"/>
-<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoWithEdit.png" alt="drawing" style="width:250px;"/>
-<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoWithSearching.png" alt="drawing" style="width:250px;"/>
+<img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoWithEdit.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/androjovi/waizly_test/blob/main/photo/TodoWithSearching.png" alt="drawing" style="width:250px;"/>
 
 # # Logic Test
 ### Build with
