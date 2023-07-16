@@ -1,15 +1,17 @@
 # # Backend test
-## Website project
+## Product Buy Project
 ### Build with
 - PHP 8
 - Laravel Framework 8.83.27
 - MySQL
 ### Feature
- - CRUD
+ - Add,Edit,Delete Product for Admin
+ - Buy, Add to cart for User
  - Migrations
  - Auth login
  - Unit Testing
 # # Frontend Test
+## ToDo Project
 ### Build with
 
 - VueJS
@@ -18,8 +20,7 @@
 - SPA (Single Page Application)
 
 ### Feature
- - CRUD
- - Searching
+ - Add, Edit, Delete, Mark as Done, Searching Todo
  - Public API (time, temperature, location)
 
 # # Logic Test
