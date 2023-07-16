@@ -11,7 +11,7 @@
  - Auth login
  - Unit Testing
 
- ![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/ProducApp_Login.png "Login preview")
+ ![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/ProductApp_buyproduct.png "Product app Preview")
 # # Frontend Test
 ## ToDo Project
 ### Build with
@@ -28,6 +28,7 @@
 # # Logic Test
 ### Build with
 - PHP
+![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/TodoList.png "Todo APP Preview")
 
 ### Script created for logic test
 - miniMaxSum
