@@ -10,6 +10,8 @@
  - Migrations
  - Auth login
  - Unit Testing
+
+ ![Alt text](https://github.com/androjovi/waizly_test/blob/main/photo/ProducApp_Login.png "Login preview")
 # # Frontend Test
 ## ToDo Project
 ### Build with
