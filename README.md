@@ -11,7 +11,7 @@
  - Auth login
  - Unit Testing
 
-<img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProducApp_Login.png" alt="drawing" style="width:250px;"/><img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProductApp_buyproduct.png" alt="drawing" style="width:250px;"/><img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProdutcApp_EditProfile.png" alt="drawing" style="width:250px;"/>
+<img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProducApp_Login.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProductApp_buyproduct.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/androjovi/waizly_test/blob/main/photo/ProdutcApp_EditProfile.png" alt="drawing" style="width:250px;"/>
 
 # # Frontend Test
 ## ToDo Project
