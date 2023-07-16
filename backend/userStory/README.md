@@ -1,7 +1,7 @@
 ##### Nawatech PHP Developer Coding Test
 # #Project 1
 Website project
-[Documentation Database](https://github.com/androjovi/nawatechCodingTest/blob/master/DocumentationDatabase.pdf)
+[Documentation Database](https://github.com/androjovi/waizly_test/blob/main/backend/userStory/DocumentationDatabase.pdf)
 ## Installation
 
 this project requires PHP 8 to run
